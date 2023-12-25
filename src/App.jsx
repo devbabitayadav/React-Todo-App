@@ -38,7 +38,7 @@ const handleDecrease=()=>{
   
   };
 
-  const [name, setName]= useState("Ulitimate Todo-APP")
+  const [name, setName]= useState("Ultimate Todo-App")
 
   const changeName=()=>{
     setName("SuperApp");
